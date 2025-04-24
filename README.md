@@ -1,39 +1,23 @@
-# FlipSide
+# FlipSide 🌟
 
-**FlipSide** is a new kind of social platform — built to amplify **positivity** and **innovation**. Unlike traditional social media, FlipSide focuses on authentic, uplifting content shared by people of all ages, from all walks of life.
+**FlipSide** is a fresh new platform for sharing positive, authentic, and innovative content — for all ages. Think of it as social media with heart.
 
-## 🌟 Why FlipSide?
+🔗 [Live Site](https://soccer-sys.github.io/flipside-site/)
 
-The internet needs more light — FlipSide is here to be the home of:
-- **Positive stories** that inspire
-- **Innovative ideas** that spark curiosity
-- **Authentic connections** that transcend the algorithm
+## 🚀 Mission
+We're building a community where creativity, kindness, and innovation shine.
 
-## 💡 Concept
+## 📁 What's Here?
+This repo contains the source code for FlipSide’s landing page — built as a simple, modern static site.
 
-FlipSide isn’t just another feed. It’s a movement. A digital space where:
-- **Creativity is celebrated**
-- **Good vibes come first**
-- **Everyone is welcome**
+## 💡 Future Plans
+- User-generated content
+- Community upvoting
+- Creative tools and features
 
-Whether you're 12 or 112, your voice matters here.
+## 📬 Contact
+Stay tuned — or reach out when the contact page goes live!
 
-## 🚀 Features (Coming Soon)
-- Curated content by real people
-- Community upvoting based on value, not vanity
-- Topic-based sharing (e.g. ideas, projects, passions)
-- Tools to boost creativity and wellbeing
+---
 
-## 🔧 Getting Started
-
-(Include instructions here when you have a working build or prototype.)
-
-```bash
-# Clone the repo
-git clone https://github.com/soccer-sys/soccer-sys.github.io.git
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
+❤️ Built for a better internet.
