@@ -2,7 +2,7 @@
 
 **FlipSide** is a fresh new platform for sharing positive, authentic, and innovative content — for all ages. Think of it as social media with heart.
 
-🔗 [Live Site](https://soccer-sys.github.io/flipside-site/)
+🔗 [Live Site](https://soccer-sys.github.io/Flipside/)
 
 ## 🚀 Mission
 We're building a community where creativity, kindness, and innovation shine.
